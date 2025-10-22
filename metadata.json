@@ -1,0 +1,5 @@
+{
+  "name": "AI Wallpaper Generator",
+  "description": "A mobile-first web app for generating unique phone wallpapers. Users describe their desired vibe, and the app generates four image variations using AI. Features include full-screen view, download, and remixing prompts.",
+  "requestFramePermissions": []
+}
